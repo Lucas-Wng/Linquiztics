@@ -17,3 +17,6 @@ linquiztics analyzes the video you are watching and creates a list of questions 
 
 Leveraging Taipy for both the frontend and backend development, we seamlessly integrated various APIs to enhance our project's functionality. By tapping into YouTube's API, we efficiently retrieved video transcripts, which were then processed through OpenAI's GPT to dynamically generate quiz questions. Introducing the Whisper API allowed us to incorporate voice input, enabling users to engage in vocal practice during the quiz. Furthermore, we employed gTTS to implement an auditory component, integrating sound playback for an immersive pronunciation learning experience. 
 
+## Images
+![Image](./images/image1.png)
+![Image](./images/image2.png)
